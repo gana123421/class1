@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="class1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/class1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/class1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Fibonacci.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MACRO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MAX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="a1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arr1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arr_func_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arr_ptr_to_int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arr_sum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bit_fields.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bitwise_operation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="call_back.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="call_by.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="callby_ref.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="calloc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="comma_operator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dangling_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="double_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="even_odd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="explicit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="free.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="function_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="if.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="implicit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="largest_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="leap_year.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="malloc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="null_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pattern.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pedef.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr_add.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr_add1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr_arr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr_comparison.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr_decrement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr_increment.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptr_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="realloc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recursion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sizeof.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_cat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_cat1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_cmp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_len.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_lwr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_rev.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strcat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strchr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strcmp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strcpy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="string.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strlen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strlwr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strrev.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strstr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure_padding.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure_pointer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure_runtime.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ternary_operator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="third_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="transpose_matrix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="typedef_struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="union.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="union_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="void_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wild_ptr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

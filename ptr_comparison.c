@@ -1,0 +1,18 @@
+/*
+#include<stdio.h>
+int main()
+{
+    int x=10;
+    int y=20;
+    int *p1=&x;
+    int *p2=&x;
+    int *p3=&y;
+    if(p1==p2)
+        printf("p1 and p2 point to the same location\n");
+    else
+        printf("p1 and p2 point to the different location\n");
+    if(p1!=p3)
+    printf("p1 and p3 point to different locations\n");
+    return 0;
+}
+*/

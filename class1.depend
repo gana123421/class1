@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1791451857 source:d:\class1\ex1.c
+	<stdio.h>
+
+1791524235 source:d:\class1\main.c
+	<stdio.h>
+
+1791529221 source:d:\class1\bitwise_operation.c
+	<stdio.h>
+
+1791529866 source:d:\class1\ternary_operator.c
+	<stdio.h>
+
+1791530183 source:d:\class1\comma_operator.c
+	<stdio.h>
+
+1791537536 source:d:\class1\sizeof.c
+	<stdio.h>
+
+1791538021 source:d:\class1\implicit.c
+	<stdio.h>
+
+1791539839 source:d:\class1\explicit.c
+	<stdio.h>
+
+1791540975 source:d:\class1\a1.c
+	<stdio.h>
+
+1791543651 source:d:\class1\if.c
+	<stdio.h>
+
+1791541542 source:d:\class1\even_odd.c
+	<stdio.h>
+
+1791543575 source:d:\class1\leap_year.c
+	<stdio.h>
+
+1791544919 source:d:\class1\largest_3.c
+	<stdio.h>
+
+1792649078 source:d:\class1\arr1.c
+	<stdio.h>
+
+1792652049 source:d:\class1\transpose_matrix.c
+	<stdio.h>
+
+1792655357 source:d:\class1\arr_sum.c
+	<stdio.h>
+
+1792656225 source:d:\class1\string.c
+	<stdio.h>
+
+1792661009 source:d:\class1\strlen.c
+	<stdio.h>
+	<string.h>
+
+1792661775 source:d:\class1\str_len.c
+
+1792662826 source:d:\class1\strcat.c
+	<stdio.h>
+	<string.h>
+
+1792663227 source:d:\class1\str_cat.c
+	<stdio.h>
+	<string.h>
+
+1792664350 source:d:\class1\str_cat1.c
+	<stdio.h>
+	<string.h>
+
+1792665016 source:d:\class1\strcmp.c
+	<stdio.h>
+	<string.h>
+
+1792666465 source:d:\class1\str_cmp.c
+	<stdio.h>
+	<string.h>
+
+1792668629 source:d:\class1\str_rev.c
+	<stdio.h>
+	<string.h>
+
+1792666980 source:d:\class1\strrev.c
+	<stdio.h>
+	<string.h>
+
+1792669098 source:d:\class1\strlwr.c
+	<stdio.h>
+	<string.h>
+
+1792733072 source:d:\class1\str_lwr.c
+	<stdio.h>
+	<string.h>
+
+1792733543 source:d:\class1\strcpy.c
+	<stdio.h>
+	<string.h>
+
+1792733916 source:d:\class1\strchr.c
+	<stdio.h>
+	<string.h>
+
+1792738736 source:d:\class1\strstr.c
+	<stdio.h>
+	<string.h>
+
+1792739162 source:d:\class1\ptr.c
+	<stdio.h>
+
+1792739269 source:d:\class1\ptr1.c
+	<stdio.h>
+
+1792739959 source:d:\class1\ptr2.c
+	<stdio.h>
+
+1792741001 source:d:\class1\double_ptr.c
+	<stdio.h>
+
+1792741331 source:d:\class1\ptr3.c
+	<stdio.h>
+
+1792741666 source:d:\class1\third_ptr.c
+	<stdio.h>
+
+1792742159 source:d:\class1\call_by.c
+	<stdio.h>
+
+1792742312 source:d:\class1\callby_ref.c
+	<stdio.h>
+
+1792748898 source:d:\class1\ptr_add.c
+	<stdio.h>
+
+1792750819 source:d:\class1\ptr_add1.c
+	<stdio.h>
+
+1792751809 source:d:\class1\ptr_sub.c
+	<stdio.h>
+
+1792753306 source:d:\class1\ptr_increment.c
+	<stdio.h>
+	<stdio.h>
+
+1792753974 source:d:\class1\ptr_decrement.c
+	<stdio.h>
+	<stdio.h>
+
+1792991511 source:d:\class1\ptr_comparison.c
+	<stdio.h>
+
+1792991906 source:d:\class1\void_ptr.c
+	<stdio.h>
+
+1792992496 source:d:\class1\null_ptr.c
+	<stdio.h>
+
+1792992590 source:d:\class1\dangling_ptr.c
+	<stdio.h>
+
+1792993264 source:d:\class1\wild_ptr.c
+	<stdio.h>
+	<stdlib.h>
+
+1792993976 source:d:\class1\ptr_arr.c
+	<stdio.h>
+
+1792994694 source:d:\class1\arr_ptr_to_int.c
+	<stdio.h>
+
+1792996963 source:d:\class1\function_ptr.c
+	<stdio.h>
+
+1792998118 source:d:\class1\call_back.c
+	<stdio.h>
+
+1793001029 source:d:\class1\arr_func_ptr.c
+	<stdio.h>
+
+1793008370 source:d:\class1\malloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1793012001 source:d:\class1\free.c
+	<stdio.h>
+	<stdlib.h>
+
+1793011605 source:d:\class1\realloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1793012427 source:d:\class1\calloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1793097749 source:d:\class1\structure.c
+	<stdio.h>
+
+1793100594 source:d:\class1\structure1.c
+	<stdio.h>
+
+1793085503 source:d:\class1\structure_runtime.c
+	<stdio.h>
+
+1793086934 source:d:\class1\structure_array.c
+	<stdio.h>
+
+1793093244 source:d:\class1\structure_pointer.c
+	<stdio.h>
+
+1793094176 source:d:\class1\union.c
+	<stdio.h>
+	<string.h>
+
+1793095348 source:d:\class1\union_ptr.c
+	<stdio.h>
+
+1793096020 source:d:\class1\enum.c
+	<stdio.h>
+
+1793097454 source:d:\class1\pedef.c
+	<stdio.h>
+
+1793098970 source:d:\class1\structure_padding.c
+	<stdio.h>
+
+1793099939 source:d:\class1\bit_fields.c
+	<stdio.h>
+
+1793100222 source:d:\class1\structure3.c
+	<stdio.h>
+
+1793100704 source:d:\class1\typedef_struct.c
+	<stdio.h>
+
+1793257284 source:d:\class1\recursion.c
+	<stdio.h>
+
+1793259870 source:d:\class1\fibonacci.c
+	<stdio.h>
+
+1793260336 source:d:\class1\macro.c
+	<stdio.h>
+
+1793265362 source:d:\class1\max.c
+	<stdio.h>
+

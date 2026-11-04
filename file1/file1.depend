@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1791969382 source:d:\class1\file1\main.c
+	<stdlib.h>
+
+1791973255 source:d:\class1\file1\file1.c
+
+1791973255 source:d:\class1\file1\support.c
+
+1791973856 source:d:\class1\file1\array.c
+
+1791974691 source:d:\class1\file1\array1.c
+	<stdio.h>
+
+1791975515 source:d:\class1\file1\array2.c
+	<stdio.h>
+
+1791975975 source:d:\class1\file1\rev.c
+	<stdio.h>
+
+1791976856 source:d:\class1\file1\matrix.c
+	<stdio.h>
+
